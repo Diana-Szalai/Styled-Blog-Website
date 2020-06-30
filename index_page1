@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>My personal blog page</title>
+    <link rel="stylesheet" href="resources/css/style-test-blog page.css"/>
+    <link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+ 
+<header>
+    <a  href="test.html" class="header-brand">Myblog</a>
+    <nav>
+        <a href="test.html" class="header-cases">  << Previous </a>
+    </nav>
+</header>
+
+<main>
+    <section class="index-banner">
+        
+            <div class="container">
+                <div class="box box1">
+                    <img src="resources/img/diana.jpg" />
+                    <ul class="social-links">
+                        <li><img src="vendors/fonts/facebook-grey-logo.png" alt="facebook icon"/></li>
+                        <li><img src="vendors/fonts/instagram-grey.png" alt="instagram icon"/></li>
+                        <li><img src="vendors/fonts/png-twitter-logo-twitter-grey.png" alt="twitter icon" /></li>
+                      </ul>
+                    <div class = "row">
+                        <h3><underline>This is a post about me</underline></h3>
+                        <p><em>Myblog</em> created in May 2020</p>
+                        <p><strong>Name:</strong> Szalai Diana</p>
+                        <p><strong>Title:</strong> Architect</p>
+                        <p><strong>Current Company/School:</strong> graduated in 2017 "Polytechnic University of Timisoara, Romania"</p>
+                        <blockquote cite="#">
+                            <strong>Short bio</strong> : orem ipsum dolor sit amet, consectetuer adipiscing elit. 
+                            Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus 
+                            et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, 
+                            pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel,
+                            </blockquote>
+                    </div> 
+                </div>
+            </div>
+        
+        
+    </section>
+</main>    
+        
+<body>
+    
+<footer>
+        <div class="row">
+            <p>
+                This webpage was created for the course Udacity Front End Developer by the student Szalai Diana. No copyrights here.<br>
+                This webpage is for you!
+            </p>
+            <p>
+                Build on May 2020.
+            </p>
+        </div>
+</footer>
+
+</body>
+</html>
