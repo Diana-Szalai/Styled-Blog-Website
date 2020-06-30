@@ -4,7 +4,7 @@
 This project requires you to create a multi-page blog website, using best practices for content and page
 styling with HTML and CSS.
 ## Examples from the project
- <img src="https://github.com/Diana-Szalai/Styled-Blog-Website/blob/master/resources/css/img/Capture2.jpg?raw=true" width="213" height="330" />
+ <img src="https://github.com/Diana-Szalai/Styled-Blog-Website/blob/master/resources/css/img/Capture2.jpg?raw=true" width="426" height="660" />
 ## Table of Contents
 * index.html
 * stylesheet css
